@@ -1,2 +1,2 @@
-# Sage-Password
+# Safe-Password-Checker
 Confirms A Safe Password
