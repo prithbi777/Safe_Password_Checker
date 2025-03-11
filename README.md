@@ -1,6 +1,7 @@
 # Safe-Password-Checker
 
 AUTHOR: Prithbiraj Mahanta
+<br>
 DATA: 6 MARCH, 2025
 SUBJECT: Password Checker Tool basically it prevents dictionary attacks. It takes a wordlist which may be used 
 in dictionary attacks for cracking files. How it works is suppose you thought a password to encrypt a file but who knows
